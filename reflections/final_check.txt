@@ -1,0 +1,7 @@
+Student Name: Venna Prudence
+GitHub Username: VennaFutures
+Repository: SE103-Week5
+Repository URL: https://github.com/VennaFutures/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time I will double-check wildcard patterns with ls before any destructive command and use >> more carefully. I will also commit more often to keep history clean.
