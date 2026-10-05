@@ -1,0 +1,2 @@
+3:First attempt had an error in my command
+6:Learning redirection was a success after the first error

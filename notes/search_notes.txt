@@ -1,0 +1,13 @@
+Student Name: Venna Prudence
+
+What grep helped me do:
+grep helped me search inside journal.txt for the word error without reading the whole file. It filtered only the matching lines with line numbers.
+
+What find helped me do:
+find helped me locate all .txt files inside shell_practice by searching file names, not content. It saved me from clicking through folders.
+
+What the pipe helped me do:
+The pipe took the output of ls and sent it to grep, so I could filter only txt files. It connected two small commands into one useful workflow.
+
+Difference between > and >>:
+> overwrites a file and replaces its content, so old data is lost. >> appends new output to the end and keeps existing content safe.
