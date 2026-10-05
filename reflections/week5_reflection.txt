@@ -1,0 +1,13 @@
+Student Name: Venna Prudence
+
+What I practiced in the shell:
+I practiced redirection using > to overwrite and >> to append output into files. I used grep to search inside files for keywords like error, and find to locate files by name. I used pipes to connect ls and grep together, and wildcards to work with groups of files safely. I also saved listings and filtered outputs into the output folder.
+
+How GitHub changed my submission habits:
+GitHub made me save my work in small commits with exact messages so the checker can verify. Instead of keeping everything local, I now push each task and keep history visible. It taught me to follow exact file names because automation checks them.
+
+One mistake I made and how I fixed it:
+I initially used > when I meant to append and overwrote my journal.txt. I fixed it by recreating the file with > first then using >> for the rest. I also learned to run ls with a wildcard before using cp or rm.
+
+Why the repository name had to be exactly SE103-Week5:
+The checker is automated and looks for the repository by exact name SE103-Week5. If the name is different, it cannot find the files and all checks fail even if work is correct.
