@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 venna venna 4096 Oct  5 21:19 .
+drwxr-xr-x 7 venna venna 4096 Oct  5 21:14 ..
+-rw-r--r-- 1 venna venna    0 Oct  5 21:14 .gitkeep
+-rw-r--r-- 1 venna venna  240 Oct  5 21:19 journal.txt
